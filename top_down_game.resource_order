@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_gun","order":1,"path":"objects/obj_gun/obj_gun.yy",},
+    {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"spr_bullet","order":5,"path":"sprites/spr_bullet/spr_bullet.yy",},
+    {"name":"spr_gun","order":4,"path":"sprites/spr_gun/spr_gun.yy",},
     {"name":"spr_player_death","order":3,"path":"sprites/spr_player_death/spr_player_death.yy",},
     {"name":"spr_player_roll","order":2,"path":"sprites/spr_player_roll/spr_player_roll.yy",},
     {"name":"spr_player_walk","order":1,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
